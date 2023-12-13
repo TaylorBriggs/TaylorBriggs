@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Taylor, a full-stack developer currently working at [Cobalt Labs](https://github.com/cobalthq). In my free time, I like to play music and bake.
+
+#### Music Projects
+
+[The Grey Ship](https://youtu.be/f3mzkBnyacE?feature=shared)
+
+[Soundcloud](https://soundcloud.com/taylorbriggs)
+
+#### Art Projects
+
+[Bird Show](https://birdshowchicago.com/)
+
 <!--
 **TaylorBriggs/TaylorBriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
